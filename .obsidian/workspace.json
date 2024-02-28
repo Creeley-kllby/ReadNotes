@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "973b87ca90107e16",
+    "type": "split",
+    "children": [
+      {
+        "id": "00a3d14fe9bf61b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a4370defbbdac2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design And Analysis Of Subgroups Biopharmaceutical application/Ch 2 Biomarker-Targeted Confirmatory Trials/2.3 Multiple-Step Inferences for the Overall Populationand Marker Subgroups.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7fa28f78a3467f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "24a09e1f20ff4892",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b30dd62a9928e81c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d1cfbe5ab94936a9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0bd83f25d0e8b101",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3e530f8e97e1a10a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b41a44cf09e200ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1caf49cb77c31b50",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Design And Analysis Of Subgroups Biopharmaceutical application/Ch 2 Biomarker-Targeted Confirmatory Trials/2.3 Multiple-Step Inferences for the Overall Populationand Marker Subgroups.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3bf6a76f618b7085",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Design And Analysis Of Subgroups Biopharmaceutical application/Ch 2 Biomarker-Targeted Confirmatory Trials/2.3 Multiple-Step Inferences for the Overall Populationand Marker Subgroups.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e02642676048daef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f7d3958120c7c290",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Design And Analysis Of Subgroups Biopharmaceutical application/Ch 2 Biomarker-Targeted Confirmatory Trials/2.3 Multiple-Step Inferences for the Overall Populationand Marker Subgroups.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "2a4370defbbdac2d",
+  "lastOpenFiles": [
+    "未命名.canvas",
+    "Design And Analysis Of Subgroups Biopharmaceutical application/Ch 2 Biomarker-Targeted Confirmatory Trials/2.3 Multiple-Step Inferences for the Overall Populationand Marker Subgroups.md",
+    "Design And Analysis Of Subgroups Biopharmaceutical application/Ch 2 Biomarker-Targeted Confirmatory Trials/2.2 Inference Errors in an All-Comer Design.md",
+    "ReadNotes",
+    "Design And Analysis Of Subgroups Biopharmaceutical application/Ch 2 Biomarker-Targeted Confirmatory Trials/2.1 Introduction.md",
+    "Design And Analysis Of Subgroups Biopharmaceutical application/Ch 2 Biomarker-Targeted Confirmatory Trials/fig/Fig 2.1.1.png",
+    "Design And Analysis Of Subgroups Biopharmaceutical application/Ch 2 Biomarker-Targeted Confirmatory Trials/2.4 Simultaneous Inferences for the Overall Populationand Marker-Positive Subgroup.md",
+    "2024-02-24.md",
+    "2.3.md",
+    "读书笔记/Welcome.md",
+    "Design And Analysis Of Subgroups Biopharmaceutical application",
+    "Design And Analysis Of Subgroups Biopharmaceutical application/Ch 2 Biomarker-Targeted Confirmatory Trials/fig/Fig 2.1.7.png",
+    "Design And Analysis Of Subgroups Biopharmaceutical application/Ch 2 Biomarker-Targeted Confirmatory Trials/fig/Fig 2.1.6.png",
+    "Design And Analysis Of Subgroups Biopharmaceutical application/Ch 2 Biomarker-Targeted Confirmatory Trials/fig/Fig 2.1.5.png",
+    "Design And Analysis Of Subgroups Biopharmaceutical application/Ch 2 Biomarker-Targeted Confirmatory Trials/fig/Fig 2.1.4.png",
+    "Design And Analysis Of Subgroups Biopharmaceutical application/Ch 2 Biomarker-Targeted Confirmatory Trials/fig/Fig 2.1.3.png",
+    "Design And Analysis Of Subgroups Biopharmaceutical application/Ch 2 Biomarker-Targeted Confirmatory Trials/fig/Fig 2.1.2.png",
+    "().md",
+    "fig/TABLE.md",
+    "Design And Analysis Of Subgroups Biopharmaceutical application/Ch 2 Biomarker-Targeted Confirmatory Trials/fig/Table 2.1.png",
+    "fig",
+    "Design And Analysis Of Subgroups Biopharmaceutical application/Ch 2 Biomarker-Targeted Confirmatory Trials/fig"
+  ]
+}
