@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design And Analysis Of Subgroups Biopharmaceutical application/Ch 2 Biomarker-Targeted Confirmatory Trials/2.3 Multiple-Step Inferences for the Overall Populationand Marker Subgroups.md",
+                "file": "Design And Analysis Of Subgroups Biopharmaceutical application/Ch 2 Biomarker-Targeted Confirmatory Trials/2.4 Simultaneous Inferences for the Overall Populationand Marker-Positive Subgroup.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3e530f8e97e1a10a",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design And Analysis Of Subgroups Biopharmaceutical application/Ch 2 Biomarker-Targeted Confirmatory Trials/2.3 Multiple-Step Inferences for the Overall Populationand Marker Subgroups.md",
+                "file": "Design And Analysis Of Subgroups Biopharmaceutical application/Ch 2 Biomarker-Targeted Confirmatory Trials/2.4 Simultaneous Inferences for the Overall Populationand Marker-Positive Subgroup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design And Analysis Of Subgroups Biopharmaceutical application/Ch 2 Biomarker-Targeted Confirmatory Trials/2.3 Multiple-Step Inferences for the Overall Populationand Marker Subgroups.md",
+                "file": "Design And Analysis Of Subgroups Biopharmaceutical application/Ch 2 Biomarker-Targeted Confirmatory Trials/2.4 Simultaneous Inferences for the Overall Populationand Marker-Positive Subgroup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design And Analysis Of Subgroups Biopharmaceutical application/Ch 2 Biomarker-Targeted Confirmatory Trials/2.3 Multiple-Step Inferences for the Overall Populationand Marker Subgroups.md"
+                "file": "Design And Analysis Of Subgroups Biopharmaceutical application/Ch 2 Biomarker-Targeted Confirmatory Trials/2.4 Simultaneous Inferences for the Overall Populationand Marker-Positive Subgroup.md"
               }
             }
           }
@@ -149,13 +148,14 @@
   },
   "active": "2a4370defbbdac2d",
   "lastOpenFiles": [
-    "未命名.canvas",
     "Design And Analysis Of Subgroups Biopharmaceutical application/Ch 2 Biomarker-Targeted Confirmatory Trials/2.3 Multiple-Step Inferences for the Overall Populationand Marker Subgroups.md",
+    "Design And Analysis Of Subgroups Biopharmaceutical application/Ch 2 Biomarker-Targeted Confirmatory Trials/2.4 Simultaneous Inferences for the Overall Populationand Marker-Positive Subgroup.md",
+    "README.md",
+    "未命名.canvas",
     "Design And Analysis Of Subgroups Biopharmaceutical application/Ch 2 Biomarker-Targeted Confirmatory Trials/2.2 Inference Errors in an All-Comer Design.md",
     "ReadNotes",
     "Design And Analysis Of Subgroups Biopharmaceutical application/Ch 2 Biomarker-Targeted Confirmatory Trials/2.1 Introduction.md",
     "Design And Analysis Of Subgroups Biopharmaceutical application/Ch 2 Biomarker-Targeted Confirmatory Trials/fig/Fig 2.1.1.png",
-    "Design And Analysis Of Subgroups Biopharmaceutical application/Ch 2 Biomarker-Targeted Confirmatory Trials/2.4 Simultaneous Inferences for the Overall Populationand Marker-Positive Subgroup.md",
     "2024-02-24.md",
     "2.3.md",
     "读书笔记/Welcome.md",
